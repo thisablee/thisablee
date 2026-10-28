@@ -1,33 +1,19 @@
 # thisablee
 
+**Junior Java Developer**
+
 [Italiano](#italiano) · [English](#english)
 
 ## Italiano
 
-Sto lavorando ad alcune app per iOS, Android e web. Sono progetti personali: alcuni sono più avanti, altri sono appena iniziati.
+Sono un Junior Java Developer e mi occupo anche di app e progetti web. Mi piace capire come funzionano le cose e imparare mettendoci mano.
 
-### I progetti
-
-- **Spesina / Giorna**: per tenere insieme lista della spesa, dispensa, ricette e impegni.
-- **Lumina TV**: un player multimediale, affiancato da **Lumina Gestione** per gestire le playlist da remoto.
-- **Clientiva**: per avere clienti, pagamenti e scadenze nello stesso posto.
-- **Love**: uno spazio di coppia per ricordi, momenti e liste condivise.
-- **Doggos**: un'idea ancora agli inizi, dedicata alla gestione quotidiana dei cani.
-
-Nei progetti uso JavaScript, TypeScript, React, React Native, Expo, Swift/SwiftUI e Capacitor.
+Qui raccolgo progetti personali ed esperimenti. Cerco di scrivere codice chiaro e creare strumenti semplici da usare, migliorandoli man mano che imparo qualcosa di nuovo.
 
 ---
 
 ## English
 
-I'm working on a few personal apps for iOS, Android and the web. Some are further along; others are just getting started.
+I'm a Junior Java Developer, and I also work on apps and web projects. I like figuring out how things work and learning by building them.
 
-### The projects
-
-- **Spesina / Giorna**: grocery lists, pantry items, recipes and plans in one place.
-- **Lumina TV**: a media player with a companion app, **Lumina Gestione**, for managing playlists remotely.
-- **Clientiva**: a place to keep track of clients, payments and due dates.
-- **Love**: an app for couples to share memories, moments and lists.
-- **Doggos**: an early idea for keeping track of everyday dog care.
-
-The projects use JavaScript, TypeScript, React, React Native, Expo, Swift/SwiftUI and Capacitor.
+This is where I keep my personal projects and experiments. I aim for clear code and tools that are easy to use, improving them as I learn.
