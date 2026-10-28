@@ -1,40 +1,33 @@
-<div align="center">
+# Ciao, sono Luigi
 
-# Ciao, sono Luigi 👋
+[Italiano](#italiano) · [English](#english)
 
-**Idee quotidiane. App utili. Un passo alla volta.**
+## Italiano
 
-iOS · Android · Web
+Sto lavorando ad alcune app per iOS, Android e web. Sono progetti personali: alcuni sono più avanti, altri sono appena iniziati.
 
-</div>
+### I progetti
 
----
+- **Spesina / Giorna**: per tenere insieme lista della spesa, dispensa, ricette e impegni.
+- **Lumina TV**: un player multimediale, affiancato da **Lumina Gestione** per gestire le playlist da remoto.
+- **Clientiva**: per avere clienti, pagamenti e scadenze nello stesso posto.
+- **Love**: uno spazio di coppia per ricordi, momenti e liste condivise.
+- **Doggos**: un'idea ancora agli inizi, dedicata alla gestione quotidiana dei cani.
 
-Mi piace trasformare le esigenze di tutti i giorni in progetti concreti: organizzare meglio il tempo, gestire le proprie attività e creare strumenti piacevoli da usare.
-
-Qui raccolgo le mie app personali e gli esperimenti che porto avanti. Uso anche l’intelligenza artificiale come supporto per passare dall’idea al codice e continuare a imparare.
-
-## I miei progetti
-
-| Progetto | L’idea |
-| --- | --- |
-| **Spesina / Giorna** | Spesa, dispensa, impegni e ricette in un’unica app. |
-| **Lumina TV + Lumina Gestione** | Un player multimediale e un’app dedicata alla gestione remota delle playlist. |
-| **Clientiva** | Uno spazio per organizzare clienti, pagamenti e scadenze. |
-| **Love** | Un’app di coppia per condividere momenti, ricordi e liste. |
-| **Doggos** | Un progetto in fase iniziale per organizzare la vita quotidiana dei cani. |
-
-## Cosa cerco nelle mie app
-
-- **Utilità:** partire da un’esigenza reale.
-- **Semplicità:** rendere chiare le funzioni e facili i passaggi.
-- **Cura:** dare attenzione sia all’aspetto sia all’esperienza d’uso.
-- **Miglioramento continuo:** provare, correggere e aggiungere ciò che serve.
-
-## Tecnologie presenti nei progetti
-
-JavaScript · TypeScript · React · React Native · Expo · Swift / SwiftUI · Capacitor
+Nei progetti uso JavaScript, TypeScript, React, React Native, Expo, Swift/SwiftUI e Capacitor.
 
 ---
 
-*Progetti personali, in continua evoluzione.*
+## English
+
+I'm Luigi. I'm working on a few personal apps for iOS, Android and the web. Some are further along; others are just getting started.
+
+### The projects
+
+- **Spesina / Giorna**: grocery lists, pantry items, recipes and plans in one place.
+- **Lumina TV**: a media player with a companion app, **Lumina Gestione**, for managing playlists remotely.
+- **Clientiva**: a place to keep track of clients, payments and due dates.
+- **Love**: an app for couples to share memories, moments and lists.
+- **Doggos**: an early idea for keeping track of everyday dog care.
+
+The projects use JavaScript, TypeScript, React, React Native, Expo, Swift/SwiftUI and Capacitor.
