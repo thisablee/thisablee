@@ -1,4 +1,4 @@
-# Ciao, sono Luigi
+# thisablee
 
 [Italiano](#italiano) · [English](#english)
 
@@ -20,7 +20,7 @@ Nei progetti uso JavaScript, TypeScript, React, React Native, Expo, Swift/SwiftU
 
 ## English
 
-I'm Luigi. I'm working on a few personal apps for iOS, Android and the web. Some are further along; others are just getting started.
+I'm working on a few personal apps for iOS, Android and the web. Some are further along; others are just getting started.
 
 ### The projects
 
