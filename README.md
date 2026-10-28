@@ -6,14 +6,18 @@
 
 ## Italiano
 
-Sono un Junior Java Developer e mi occupo anche di app e progetti web. Mi piace capire come funzionano le cose e imparare mettendoci mano.
+Mi piace mettere mano al codice e provare nuove idee. Qui raccolgo app, progetti web ed esperimenti.
 
-Qui raccolgo progetti personali ed esperimenti. Cerco di scrivere codice chiaro e creare strumenti semplici da usare, migliorandoli man mano che imparo qualcosa di nuovo.
+Ho frequentato il corso online di **Sviluppatore Java Junior** di **Generation Italy**, di **500 ore**, ricevendo l'attestato. Durante il corso ho studiato le basi della programmazione a oggetti, **Java, HTML, CSS e JavaScript**.
+
+Ora continuo a imparare lavorando ai miei progetti, una prova alla volta.
 
 ---
 
 ## English
 
-I'm a Junior Java Developer, and I also work on apps and web projects. I like figuring out how things work and learning by building them.
+I like tinkering with code and trying out new ideas. This is where I keep my apps, web projects and experiments.
 
-This is where I keep my personal projects and experiments. I aim for clear code and tools that are easy to use, improving them as I learn.
+I took **Generation Italy's 500-hour online Junior Java Developer course** and received a certificate of attendance. It covered the basics of object-oriented programming, **Java, HTML, CSS and JavaScript**.
+
+Now I keep learning through my own projects, trying things out as I go.
